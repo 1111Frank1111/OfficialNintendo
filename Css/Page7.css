@@ -1,0 +1,13 @@
+.image{
+  padding: 10px;
+  background-color: #eee;
+}
+body{
+  background-image: url(./BG/BibliogrphyBG.jpg);
+  background-repeat: repeat;
+  background-size: 40%;
+  background-attachment: fixed;
+}
+.Title{
+  background-color: white;
+}

@@ -1,0 +1,7 @@
+
+body{
+  background-image: url(./BG/HomeConBG.jpg);
+  background-repeat: repeat;
+  background-size: 40%;
+  background-attachment: fixed;
+}

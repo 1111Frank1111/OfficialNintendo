@@ -1,0 +1,9 @@
+.text{
+  grid-row: 5/8;
+}
+body{
+  background-image: url(./BG/BTTBG.jpg);
+  background-repeat: repeat;
+  background-size: 40%;
+  background-attachment: fixed;
+}

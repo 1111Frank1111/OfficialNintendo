@@ -1,0 +1,9 @@
+body{
+  background-image: url(./BG/TradeMarksBG.jpg);
+  background-repeat: repeat;
+  background-size: 40%;
+  background-attachment: fixed;
+}
+.text{
+  grid-row: 5/9;
+}
